@@ -39,4 +39,9 @@
     #星币钱包地址产生
     ![image](https://user-images.githubusercontent.com/26592729/47694275-f8c87980-dc37-11e8-83ed-806b98d9fc7e.png)
     
+    #Installation
+    ```
+      npm install egg --save
+    ```
+    
     
