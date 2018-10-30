@@ -41,7 +41,7 @@
     
     # Installation
     ```
-      npm install egg --save
+      npm install
     ```
     # Getting Started
     ```
