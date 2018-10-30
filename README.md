@@ -1,3 +1,7 @@
+                                    
+                                  ![image](https://user-images.githubusercontent.com/26592729/47694791-172f7480-dc3a-11e8-82b5-ea41467601ae.png)
+
+
 # 星网 STARS EXCHANGE 介绍
 
 星网由美国知名科技公司 Sirius Play 研发推出的一个新颖的面向全球发行的世界领先 的娱乐平台。它选用与业的应用开发团队结合时下先进的区块链技术与高流通性的加密货币 打造应用范围与前景均十分广泛的创新应用程序。
